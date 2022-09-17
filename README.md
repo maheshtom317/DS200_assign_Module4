@@ -16,19 +16,19 @@
 ### Scatter Plots
 > Here are a few scatter plots
  <p align="center">
- <img src="scatter_meat_transport.jpg" width="400px" alt=""> 
+ <img src="pics/scatter_meat_transport.jpg" width="400px" alt=""> 
  </p>
 1.This plot shows the relationship between consumer price index of meat and fish vs the transport and communication. As we can see it is increasing but not in a very linear fashion. 
 2.Inference here is that as the transport and communication consumer price index increases so will the meat and fish consumer price index.
 
 <p align="center">
- <img src="scatter_Spices_transport.jpg" width="400px" alt=""> 
+ <img src="pics/scatter_Spices_transport.jpg" width="400px" alt=""> 
  </p>
 1.This plot shows the relationship between consumer price index of spices vs the transport and communication consumer price index. As we can see it is increasing but not in a very linear fashion. 
 2.Inference here is that as the transport and communication consumer price index increases so will the Spices consumer price index. But sometimes there are sharp increases and sometimes smoother increases in the consumer price index value. 
 
 <p align="center">
- <img src="scatter_clothing_housing.jpg" width="400px" alt=""> 
+ <img src="pics/scatter_clothing_housing.jpg" width="400px" alt=""> 
  </p>
 1.This plot shows the relationship between consumer price index of clothing and housing vs the transport and communication. As we can see it is increasing but at different rates
 2.Clothing increases and the rate of increase is higher for higher value of consumer price index for transport and communication. Maybe due to more transport people are able to buy clothes more but housing is not so easy to purchase so transport may only affect it to a certain extent. 
@@ -38,7 +38,7 @@
 ### Box Plot
 
 <p align="center">
- <img src="box_cereal.jpg" width="400px" alt=""> 
+ <img src="pics/box_cereal.jpg" width="400px" alt=""> 
 </p>
 
 1.  The plot shows the variation of consumer price index for cereals and products for different sectors Rural, Urban and Rural+Urban 
@@ -51,7 +51,7 @@
 ### Line Graph
 
 <p align="center">
- <img src="line_july.jpg" width="400px" alt=""> 
+ <img src="pics/line_july.jpg" width="400px" alt=""> 
 </p>
 
 
