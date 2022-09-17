@@ -19,11 +19,11 @@
  </p>
  
 
-1.This plot shows the variation of the rainfall in July vs rainfall in June and rainfall in August vs rainfall in June to see if there is a correlation between months
+1. This plot shows the variation of the rainfall in July vs rainfall in June and rainfall in August vs rainfall in June to see if there is a correlation between months
 
-2.In general no correlation can be seen but if we were to describe it simply, we could say it is approximately increasing 
+2. In general no correlation can be seen but if we were to describe it simply, we could say it is approximately increasing 
 
-3.At higher values of rainfall in June, we dont see that high a rainfall in July. 
+3. At higher values of rainfall in June, we dont see that high a rainfall in July. 
 4. Around 200-250 range of rainfall in June , we see a peak in rainfall in both July and August. This could be a way to characterize the monsoon currents. 
 
 * * *
@@ -50,11 +50,11 @@
 </p>
 
 
-1.This plot shows the variation of the rainfall across many years for the months June, July, September.
+1. This plot shows the variation of the rainfall across many years for the months June, July, September.
 
-2.Inference here is that as the in general the rainfall in July is higher than that of June and September. While comparing rainfall between June and September it is not so clear which month has higher rainfall from this graph but September has lower dips compared to the June. 
+2. Inference here is that as the in general the rainfall in July is higher than that of June and September. While comparing rainfall between June and September it is not so clear which month has higher rainfall from this graph but September has lower dips compared to the June. 
 
-3.Across various years there is no clear trend and the rainfall seems to be constant although the peak rainfall years are before 2000. 
+3. Across various years there is no clear trend and the rainfall seems to be constant although the peak rainfall years are before 2000. 
 
 * * *
 ### Bar Plot
