@@ -14,7 +14,6 @@
 3.  **rainfall_peninsula_2016.ipynb** is the jupyter notebook.
 
 ### Scatter Plots
-> Here are a few scatter plots
  <p align="center">
  <img src="pics/scatter_rainfall.jpg" width="1000px" alt=""> 
  </p>
