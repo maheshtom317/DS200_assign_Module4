@@ -10,7 +10,7 @@
 >> The link to download the dataset is https://visualize.data.gov.in/?inst=a5df75bc-4578-48ad-bc9d-e6eb4b63de0a .<br/> The data consists of consumer price index for various elements such items such as Cereals, Meat and Fish, Fruits, Healthcare products and many other products.
 > All the files are contained in the zip folder **module4**
 1.  **a5df75bc-4578-48ad-bc9d-e6eb4b63de0a.csv** is the csv file of the data set. The name is kept same as the name we see on downloading. 
-2.  **consumer_index.py** in the github repository is the python script for the python code for plotting. 
+2.  **consumer_index.py** in the github repository is the python script for plotting. 
 3.  **consumer_index.ipynb** is the jupyter notebook.
 
 ### Scatter Plots
