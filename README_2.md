@@ -10,7 +10,7 @@
 >> The link to download the dataset is https://data.gov.in/resource/rainfall-south-peninsula-10-subdivisions-and-its-departure-normal-monsoon-session-june-0 .<br/> The data consists of consumer price index for various elements such items such as Cereals, Meat and Fish, Fruits, Healthcare products and many other products.
 > All the files are contained in the zip folder **module4**
 1.  **south_pen-India_rainfall_act_dep_1901_2016.csv** is the csv file of the data set. The name is kept same as the name we see on downloading. 
-2.  **rainfall_peninsula_2016.py** in the github repository is the python script for the python code for plotting. 
+2.  **rainfall_peninsula_2016.py** in the github repository is the python script for plotting. 
 3.  **rainfall_peninsula_2016.ipynb** is the jupyter notebook.
 
 ### Scatter Plots
