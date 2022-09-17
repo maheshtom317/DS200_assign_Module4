@@ -14,7 +14,6 @@
 3.  **consumer_index.ipynb** is the jupyter notebook.
 
 ### Scatter Plots
-> Here are a few scatter plots
  <p align="center">
  <img src="pics/scatter_meat_transport.jpg" width="400px" alt=""> 
  </p>
